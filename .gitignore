@@ -1,0 +1,6 @@
+echo "__pycache__/
+.env
+*.log
+node_modules/
+.vscode/
+.DS_Store" > .gitignore
